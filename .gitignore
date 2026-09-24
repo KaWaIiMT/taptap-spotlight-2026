@@ -11,4 +11,5 @@ Desktop.ini
 
 # temp files
 *.tmp
+*.tmp.html
 ~$*
